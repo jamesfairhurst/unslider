@@ -1,0 +1,8 @@
+{
+    "name": "unslider",
+    "version": "1.0.0",
+    "main": "src/js/unslider.js",
+    "dependencies": {
+        "jquery": ">= 2.1.1"
+    }
+}
